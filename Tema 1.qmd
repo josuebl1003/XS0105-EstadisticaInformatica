@@ -16,7 +16,7 @@ format: revealjs
 
 ## Ejemplos de estadística
 
-![](Imagenes/Captura de Pantalla 2025-01-08 a la(s) 21.47.29.png){fig-align="center"}
+![](Imagenes/Captura%20de%20Pantalla%202025-01-08%20a%20la(s)%2021.47.29.png){fig-align="center"}
 
 ## Ejemplos de estadística
 
@@ -202,10 +202,13 @@ Una variable estadística es una propiedad que puede flucturar y cuya variación
 
 -   Combinación de respuestas libres y opciones preestablecidas.
 
-    -   Ejemplo: ¿Por qué eligió esta carrera?
-        -   
+    -   
 
-            a)  Interés personal.
+        ## Ejemplo: ¿Por qué eligió esta carrera?
+
+        ```         
+        a)  Interés personal.
+        ```
 
         -   
 
