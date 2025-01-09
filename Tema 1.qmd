@@ -1,0 +1,399 @@
+---
+title: "TEMA 1: Conceptos Estadísticos"
+author: "Josue Baltodano Leiva"
+format: revealjs
+---
+
+# Introducción a la Estadística
+
+## ¿Qué es Estadística?
+
+-   **Definición:** Ciencia que recolecta, organiza, presenta, analiza e interpreta datos para la toma de decisiones.
+-   **Áreas principales:**
+    -   Estadística Descriptiva: Métodos para describir datos.
+    -   Inferencia Estadística: Métodos para tomar decisiones o predecir basados en datos.
+-   **Importancia:** Aplicable en diversos campos como medicina, economía, sociología, entre otros.
+
+## Ejemplos de estadística
+
+![](Imagenes/Captura de Pantalla 2025-01-08 a la(s) 21.47.29.png){fig-align="center"}
+
+## Ejemplos de estadística
+
+![](images/clipboard-1590227976.png)
+
+![](images/clipboard-886015526.png)
+
+# Conceptos Básicos
+
+## Unidad Estadística
+
+-   Es la unidad de la cual se necesita información, es el individuo o conjunto de individuos de donde se obtiene el dato.
+-   Ejemplo: Un estudiante en una encuesta de satisfacción académica.
+
+## Unidad de Muestreo
+
+-   Es la unidad de la población a partir de la cual se selecciona la muestra.
+-   Ejemplo: Una clase específica dentro de una universidad.
+
+## Informante
+
+-   La unidad que nos brinda información sobre la unidad de estudio.
+-   Ejemplo: Un gerente proporcionando datos sobre su empresa.
+
+# Población y Muestra
+
+## Definiciones
+
+-   **Población:** Conjunto total de elementos (unidades estadísticas) de interés.
+-   **Muestra:** Es subconjunto de elementos de la población que es seleccionada aleatoriamente para ser estudiada, ya que en la mayoría de los casos la población es demasiado grande para ser analizada en su totalidad.
+
+## Características
+
+Son las cualidades que distinguen a las unidades estadísticas y que las hace diferente.
+
+-   Cuantitativas: Peso, altura, ingresos.
+-   Cualitativas: Estado civil, género, tipo de empresa.
+
+![](images/clipboard-3567898853.png)
+
+# Variables y Escalas de Medición
+
+## Variables y tipos de Variables
+
+Una variable estadística es una propiedad que puede flucturar y cuya variación es susceptible de adoptar diferentes valores, los cuales pueden medirse u observarse.
+
+-   **Cuantitativas:**
+    -   Continuas: Pueden tomar cualquier valor en un intervalo de números reales: peso, estatura, velocidad, edad.
+    -   Discretas: Valores numerables: cantidad de goles, número de archivos, número de contactos telefónicos.
+
+## Variables y tipos de Variables
+
+-   **Cualitativas:**
+    -   Nominales: Sin orden específico (Ejemplo: colores).
+    -   Ordinales: Con un orden definido (Ejemplo: niveles de educación).
+
+## Escalas
+
+**Importante**: Por observación se entiende a cualquier valor observado en una determinada unidad estadística.
+
+-   **Nominal:** Clasificación sin orden. Grupos son mutuamente exclusivos (Hombre - Mujer)
+-   **Ordinal:** Clasificación con un orden inherente. Tamaño de una empresa: Micro, Pequeña y Mediana.
+
+## Escalas
+
+-   **Intervalo:** Existe un orden y distancias iguales entre categorías, el punto cero existe. Grados de temperatura: (-5, -4, 0, 1, 2)
+-   **Razón:** Es muy similar al intervalo, pero el punto cero indica ausencia. Edad en años, número total de kilometros recorridos.
+
+## Ejercicio
+
+![](images/clipboard-4293067917.png)
+
+# Tipos de estadística
+
+## Estadística descriptiva vs estadística inferencial.
+
+![](images/clipboard-1146052914.png)
+
+## Estadística descriptiva
+
+![](images/clipboard-3253616504.png)
+
+## Estadística Inferencial
+
+![](images/clipboard-2973754127.png)
+
+## Ejercicio
+
+![](images/clipboard-1315664784.png)
+
+# Métodos de Recolección de Datos
+
+## Fuentes de Información
+
+**Fuente:** Origen de la información utilizada en el estudio o análisis.
+
+![](images/clipboard-3020867307.png)
+
+## Fuentes de Información
+
+-   **Primarias:** Se refiere a la institución o persona que recogió primero los datos y produjo la estadística.
+    -   Ejemplo: INEC (Censos y encuestas), Banco Central (Indicadores), CCSS (estadísticas de seguridad social y atención)
+-   **Secundarias:** Quien utiliza la información, en un estudio o análisis, no recolectó los datos estadísticos, sino que provienen de una fuente primaria ajena.
+    -   Ejemplo: La ONU toma los datos recolectados en cada país.
+
+# Evaluación de Fuentes de Información
+
+## Evaluación de Fuentes
+
+-   **Cobertura e integridad del estudio:**
+    -   ¿Incluye toda la población objetivo?
+-   **Calidad y confiabilidad:**
+    -   Procedimientos claros y consistentes.
+-   **Pertinencia:**
+    -   ¿La información es relevante para el problema de investigación?
+
+# Técnicas para Recolectar Datos No Existentes
+
+## Métodos Principales
+
+**Entrevista cara a cara:**
+
+-   Ventaja: Control total del entrevistador.
+-   Desventaja: Costos elevados.
+
+**Entrevista por teléfono:**
+
+-   Ventaja: Más económica y rápida.
+-   Desventaja: Limitada a quienes tienen acceso telefónico.
+
+**Encuesta autoadministrada:**
+
+-   Realizada por el encuestado directamente.
+-   Ideal para temas sencillos o masivos.
+
+## Métodos Principales
+
+**Encuesta por correo:**
+
+-   Bajo costo, pero baja tasa de respuesta.
+
+**Observaciones:**
+
+-   Registro de eventos en tiempo real.
+-   Ejemplo: Estudios de comportamiento en ciencias sociales.
+
+**Experimento:**
+
+-   Manipulación controlada de variables.
+-   Ejemplo: Ensayos clínicos.
+
+# Cuestionarios
+
+## Funciones Básicas
+
+1.  **Traducir objetivos en preguntas claras y relevantes:**
+    -   **Pertinente:** ¿Obedece a los objetivos del estudio?
+    -   **Válida:** ¿Mide lo que se busca medir?
+    -   **Confiable:** ¿Produce los mismos resultados en condiciones similares?
+2.  **Motivar al entrevistado:**
+    -   Diseño amigable y preguntas comprensibles.
+3.  **Facilitar la codificación y el procesamiento:**
+    -   Uso de preguntas estructuradas.
+
+# Tipos de Preguntas
+
+## Preguntas Cerradas
+
+-   **Dicotómicas:** Respuestas de sí/no.
+    -   Ejemplo: ¿Usa redes sociales? Sí / No.
+-   **De opciones múltiples:** Selección de categorías.
+    -   Ejemplo: ¿Con qué frecuencia usa Internet?
+        -   Diario
+        -   Semanal
+        -   Mensual
+
+## Preguntas Abiertas
+
+-   Respuesta libre.
+    -   Ejemplo: ¿Qué opina sobre el uso de tecnología en la educación?
+
+## Preguntas Semiabiertas
+
+-   Combinación de respuestas libres y opciones preestablecidas.
+
+    -   Ejemplo: ¿Por qué eligió esta carrera?
+        -   
+
+            a)  Interés personal.
+
+        -   
+
+            b)  Por recomendación.
+
+        -   
+
+            c)  Otra: \_\_\_\_\_\_\_\_\_\_.
+
+# Ejercicios Prácticos
+
+## Ejercicio 1: Identificación de Preguntas
+
+**Enunciado:** Clasifica las siguientes preguntas según su tipo:
+
+1.  ¿Cuál es tu edad? \_\_\_\_\_\_\_\_\_\_
+2.  ¿Estás satisfecho con tu trabajo? Sí / No
+3.  ¿Con qué frecuencia lees libros? Diario / Semanal / Mensual
+4.  ¿Por qué decidiste estudiar esta carrera? \_\_\_\_\_\_\_\_\_\_
+
+<button onclick="document.getElementById(&#39;respuesta1&#39;).style.display = (document.getElementById(&#39;respuesta1&#39;).style.display === &#39;none&#39; ? &#39;block&#39; : &#39;none&#39;)">
+
+Mostrar/Ocultar Respuesta
+
+</button>
+
+::: {#respuesta1 style="display: none;"}
+1.  Abierta
+2.  Cerrada dicotómica
+3.  Cerrada de opciones múltiples
+4.  Abierta
+:::
+
+# Censos
+
+## ¿Qué es un Censo?
+
+Un **censo** es un procedimiento en el cual se recopila información de **todos los elementos de una población**. Es un método exhaustivo que asegura que no se omiten datos, pero tiene ciertas limitaciones.
+
+## Características principales
+
+-   **Cobertura total:** Incluye a todos los individuos de la población objetivo.
+-   **Costo elevado:** Requiere tiempo, recursos humanos y financieros considerables.
+-   **Periodicidad:** Los censos suelen realizarse cada cierto tiempo (por ejemplo, censos nacionales cada 10 años).
+-   **Complejidad operativa:** La logística y planificación son más exigentes en comparación con las encuestas por muestreo.
+
+## Ventajas del censo
+
+-   Ofrece un panorama completo y exacto de la población.
+-   Es esencial para obtener datos demográficos, económicos y sociales fundamentales.
+
+## Desventajas del censo
+
+-   Es caro y lento de realizar.
+-   Puede estar sujeto a errores debido a la magnitud de la operación.
+-   En poblaciones dinámicas, los resultados pueden quedar obsoletos rápidamente.
+
+# Muestreo Estadístico
+
+## ¿Qué es el Muestreo Estadístico?
+
+El **muestreo estadístico** es un procedimiento utilizado para estudiar una parte representativa de la población (muestra) y generalizar los resultados al conjunto total. Es un método **inductivo**, ya que permite inferir características del todo a partir de una parte.
+
+## Factores clave para una muestra representativa
+
+-   **Tamaño de la muestra:** Una muestra mayor tiende a ser más representativa, siempre que sea seleccionada correctamente.
+-   **Homogeneidad de los elementos:** A mayor homogeneidad, se requiere una muestra más pequeña.
+-   **Forma de selección:** Métodos de selección aleatorios reducen los sesgos.
+
+## Factores clave para una muestra representativa
+
+-   **Nivel de precisión:** La muestra debe ajustarse al nivel de exactitud deseado en las estimaciones.
+-   **Grado de confianza:** Define la probabilidad de que los resultados reflejen la realidad de la población.
+
+## ¿Cuándo utilizar muestras?
+
+El uso del muestreo es ideal en los siguientes casos:
+
+-   Cuando la población es infinita o extremadamente grande.
+
+-   Cuando es costoso o consume mucho tiempo estudiar toda la población.
+
+-   Cuando la unidad de estudio se destruye durante el análisis (por ejemplo, pruebas de resistencia de materiales).
+
+-   Cuando los resultados obtenidos de la muestra son suficientemente precisos.
+
+# Diseño y Selección de la Muestra
+
+## ¿Qué es una Muestra?
+
+-   **Definición:** Subconjunto de unidades seleccionadas de una población.
+-   **Objetivo:** Obtener conclusiones representativas del total.
+
+## Muestras Aleatorias
+
+-   **Simple:** Cada elemento tiene la misma probabilidad de ser elegido.
+-   **Sistemático:** Se selecciona cada k-ésimo elemento de una lista ordenada.
+-   **Estratificado:** La población se divide en grupos homogéneos (estratos) y se toma una muestra de cada uno.
+
+## Muestras Aleatorias
+
+-   **Por conglomerados:** Se seleccionan grupos naturales como unidades de muestreo.
+-   **Por etapas:** Combinación de métodos, seleccionando muestras en múltiples fases.
+
+## Muestras No Aleatorias
+
+-   **Conveniencia:** Basado en accesibilidad o facilidad.
+-   **Intencional:** Selección subjetiva basada en el juicio del investigador.
+
+## Error de Muestreo
+
+-   **Definición:** Diferencia entre los resultados obtenidos de la muestra y los valores reales de la población.
+-   **Fórmula:** $$ E = estimador - parametro $$
+
+## Sesgo
+
+-   **Definición:** Desviación sistemática en la recolección, análisis o interpretación de datos.
+-   **Ejemplos:**
+    -   **De selección:** Grupos no representativos.
+    -   **De no respuesta:** Pérdida de datos por participantes ausentes.
+    -   **De medición:** Errores en cómo se mide la información.
+
+# Fases de la Investigación Estadística
+
+## Etapas
+
+1.  **Elaboración del Cuestionario:**
+    -   Diseño claro y conciso.
+    -   Preguntas abiertas y cerradas según necesidad.
+2.  **Recolección de Datos:**
+    -   Técnicas como observación, entrevistas y encuestas.
+3.  **Codificación:**
+    -   Asignar valores numéricos a respuestas cualitativas.
+4.  **Digitación y Procesamiento:**
+    -   Uso de software estadístico para analizar los datos.
+
+# Ejercicios Prácticos
+
+## Ejercicio 1: Identificación de Variables
+
+**Enunciado:** 1. Edad de los estudiantes. 2. Estado civil. 3. Número de mascotas en el hogar.
+
+<button onclick="document.getElementById(&#39;respuesta1&#39;).style.display = (document.getElementById(&#39;respuesta1&#39;).style.display === &#39;none&#39; ? &#39;block&#39; : &#39;none&#39;)">
+
+Mostrar/Ocultar Respuesta
+
+</button>
+
+::: {style="display: none;"}
+1.  Cuantitativa continua
+2.  Cualitativa nominal
+3.  Cuantitativa discreta
+:::
+
+## Ejercicio 2: Clasificación de Escalas
+
+**Enunciado:** Clasifica las siguientes variables según su escala de medición: 1. Grado académico (Primaria, Secundaria, Universitaria). 2. Número de hijos. 3. Género (Masculino, Femenino).
+
+<button onclick="document.getElementById(&#39;respuesta2&#39;).style.display = (document.getElementById(&#39;respuesta2&#39;).style.display === &#39;none&#39; ? &#39;block&#39; : &#39;none&#39;)">
+
+Mostrar/Ocultar Respuesta
+
+</button>
+
+::: {#respuesta2 style="display: none;"}
+1.  Escala ordinal
+2.  Escala de razón
+3.  Escala nominal
+:::
+
+## Ejercicio 3: Diseños de Muestreo
+
+**Enunciado:** Identifica el tipo de muestreo en los siguientes casos: 1. Elegir a los primeros 50 clientes que llegan a una tienda. 2. Dividir a una población en hombres y mujeres y seleccionar al azar. 3. Seleccionar cada 10ª persona de una lista de invitados.
+
+<button onclick="document.getElementById(&#39;respuesta3&#39;).style.display = (document.getElementById(&#39;respuesta3&#39;).style.display === &#39;none&#39; ? &#39;block&#39; : &#39;none&#39;)">
+
+Mostrar/Ocultar Respuesta
+
+</button>
+
+::: {#respuesta3 style="display: none;"}
+1.  Conveniencia
+2.  Estratificado
+3.  Sistemático
+:::
+
+# Conclusiones
+
+-   La estadística es esencial para la toma de decisiones fundamentadas.
+-   El diseño de muestras y la recolección adecuada de datos son claves para la validez de los resultados.
+-   Practicar y aplicar los conceptos fortalece su comprensión y utilidad.
